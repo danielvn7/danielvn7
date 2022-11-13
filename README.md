@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br> 
  
 
- <img align="left" height="180" alt="coding-time" src="https://raw.githubusercontent.com/danielvn7/danielvn7/main/code.gif">
+ <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/danielvn7/danielvn7/main/code.gif">
 
   
 </div>
