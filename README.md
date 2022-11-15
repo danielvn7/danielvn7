@@ -1,4 +1,4 @@
-## Developer Java
+## Developer 
 <div align="center">
   <a href="https://github.com/danielvn7">
   <img align="left" height="130em" src="https://github-readme-stats.vercel.app/api?username=danielvn7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
