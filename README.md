@@ -1,8 +1,19 @@
 ## Developer 
 <div align="center">
   <a href="https://github.com/danielvn7">
-  <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=danielvn7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvn7&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielvn7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvn7&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:jeffersonvenancio98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jefferson-venancio-838a38194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/jeffersonvp/jeffersonvp/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
   
   # 💻 Tecnologias:
